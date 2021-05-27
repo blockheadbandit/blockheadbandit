@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @blockheadbandit
-- 👀 I’m interested in Programming with languages such as Python, C, CSharp
+- 👀 I’m interested in Programming with languages such as Python, C, CSharp, And a bit of JavaScript
 - 🌱 I’m currently learning C/C++
