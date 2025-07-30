@@ -1,7 +1,4 @@
-Hi.
-
-I make stuff
-
-Strong in: C#, Python, ASP.NET MVC and familliar with JavaScript, NodeJS. I know quite the range
-
-Currently learning Large Language Models with PyTorch to create an AI that intergrates with discord allowing users to talk to it in real time. will be unprivated when in a presentable state
+#Hi, I'm Reece.
+Feel free to check out my repos, most of them are old projects I've worked on
+Currently my main languages are: Python, C++, and tidbits of Lua and JavaScript
+My Github is only really for personal projects I need to access from multiple locations, and for archiving purposes
